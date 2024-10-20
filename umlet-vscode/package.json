@@ -197,6 +197,6 @@
     "sync-pom-version-to-package": "^1.6.1",
     "vsce": "^2.15.0",
     "connect": "^3.7.0",
-    "serve-static": "^1.16.0"
+    "serve-static": "^1.16.2"
   }
 }
